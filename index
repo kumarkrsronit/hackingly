@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sex education </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Fuggles&family=Mooli&family=Oswald:wght@600&family=Roboto:wght@100;300&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Bree+Serif&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+
+<body>
+
+   
+
+
+    <section class="intro_container">
+       
+        <h1>Why Sex Education ???</h1>
+        <p>.///</p>
+        <button class="btn">Login </button>
+        <button class="btn">Signup </button>
+        <!-- <button class="btn">anonymous </button> -->
+
+    </section>
+
+   
+
+
+
+    <section class="menu_container">
+        <div class="mainhead">
+            <h1>Learn about the famous taboo topics </h1>
+            <p> </p>
+            <!-- <button class="butt" onclick="window.open('content/menu.html', '_blank')"> button </button> -->
+
+        </div>
+
+        <div class="topics">
+            <div class="items">
+                <img src="https://www.co.shawano.wi.us/i/f/Picture17.jpg">
+                <h3> STDS </h3>
+                <p>.//</p>
+            </div>
+            <div class="items">
+                <img src="https://assets.clevelandclinic.org/transform/LargeFeatureImage/f2b89abf-6fad-4dea-88ac-df1062cd7007/contraception-options-1249598887-967x544-1_jpg">
+                <h3> Safe Sex </h3>
+                <p>.///</p>
+            </div>
+            <div class="items">
+                <img src="https://media.sciencephoto.com/image/m8450013/800wm/M8450013-Menstruation.jpg">
+                <h3> Menstruation </h3>
+                <p>.//</p>
+            </div>
+            <div class="items">
+                <img src="https://buzzrx.s3.amazonaws.com/84a4d0e2-a5a4-49b0-9ad9-7ca5af43c60a/PubertyTannerStages-Femalevs.Male.png">
+                <h3> Puberty </h3>
+                <p>.///</p>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+    
+
+</body>
+
+</html>
